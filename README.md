@@ -77,11 +77,26 @@ Ms Project • Agile Methodology(Scrum) • JIRA
 
 ---
 
-## 📬 Contact
+## 📬 Connect with me
 
-- 📧 Email: [khushmodi08@gmail.com](mailto:khushmodi08@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/KushalModi](https://www.linkedin.com/in/kushalmodi08)   
-- 📂 GitHub: [github.com/KushalModi](https://github.com/khushmodi08)
+<p align="left">
+  <a href="mailto:khushmodi08@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/kushalmodi08" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://github.com/khushmodi08" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.instagram.com/khushmodii/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
 
 ---
 
