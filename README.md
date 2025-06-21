@@ -63,14 +63,14 @@ Built a Snowflake data warehouse and predictive Python models to reduce readmiss
 ### 🛠️ Data & Modeling  
 Python • R • SQL • DAX • Spark • NLP • Scikit-learn • TensorFlow • XGBoost  
 
-### 📊 BI & Analytics  
-Power BI • Tableau • Looker Studio • Alteryx • SAS • Advance Excel • Minitab 
-
 ### 🔄 ETL & Workflow Automation  
 Snowflake • SQL Server • PostgreSQL • Oracle • Apache Airflow • SSIS • Informatica  
 
 ### ☁️ Cloud & DevOps  
 Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence 
+
+### 📊 BI & Analytics  
+Power BI • Tableau • Looker Studio • Alteryx • SAS • Advance Excel • Minitab 
 
 ### 📋 Project Management Tools  
 Ms Project • Agile Methodology(Scrum) • JIRA 
