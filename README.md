@@ -25,6 +25,21 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
 ---
 
+## ⚙️ Tech Stack
+
+### 🛠️ Data & Modeling  
+Python • R • SQL • DAX • Spark • NLP • Scikit-learn • TensorFlow • XGBoost  
+### 🔄 ETL & Workflow Automation  
+Airflow • dbt • Snowflake • SQL Server • PostgreSQL • Oracle • Apache Airflow • SSIS • Informatica  
+### ☁️ Cloud & DevOps  
+GCP • Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence 
+### 📊 BI & Analytics  
+Power BI • Tableau • Looker Studio • Alteryx • SAS • Advance Excel • Minitab 
+### 📋 Project Management Tools  
+Ms Project • Agile Methodology(Scrum) • JIRA 
+
+---
+
 ## 💼 Professional Experience
 
 ### 🏢 *Business Intelligence Analyst, Lean Six Sigma(Black Belt)* | National Grid
@@ -55,25 +70,6 @@ in cloud systems. Achieved a 50% reduction in manual effort and 99% uptime for c
 
 ### [🏥 ICU Optimization with Snowflake DWH](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing)  
 Built a Snowflake data warehouse and predictive Python models to reduce readmission risk and optimize ICU capacity.
-
----
-
-## ⚙️ Tech Stack
-
-### 🛠️ Data & Modeling  
-Python • R • SQL • DAX • Spark • NLP • Scikit-learn • TensorFlow • XGBoost  
-
-### 🔄 ETL & Workflow Automation  
-Airflow • dbt • Snowflake • SQL Server • PostgreSQL • Oracle • Apache Airflow • SSIS • Informatica  
-
-### ☁️ Cloud & DevOps  
-GCP • Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence 
-
-### 📊 BI & Analytics  
-Power BI • Tableau • Looker Studio • Alteryx • SAS • Advance Excel • Minitab 
-
-### 📋 Project Management Tools  
-Ms Project • Agile Methodology(Scrum) • JIRA 
 
 ---
 
