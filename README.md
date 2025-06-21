@@ -36,15 +36,14 @@ GCP • Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, Sag
 📊 **BI & Analytics**  
 Power BI • DAX • Tableau • Looker Studio • Alteryx • SAS • Advanced Excel • Minitab  
 📋 **Project Management Tools**  
-MS Project • Agile Methodology (Scrum) • JIRA
+MS Project • Agile Methodology (Scrum) • JIRA  
+📈 **Data Analytics & Business Intelligence**  
+Data Modeling • Feature Engineering • Data Cleaning • Statistics • KPI Development • Dashboards • Ad hoc Reporting • Data Warehousing  
+🤖 **Machine Learning & AI**  
+Regression • Classification • Clustering • Random Forest • Decision Trees • Time Series Forecasting • TensorFlow • PyTorch • Keras • CNNs • Autoencoders • Transformers • NLTK • NLP • Deep Learning • Gen AI  
+📊 **Statistical Analysis**  
+A/B Testing • Hypothesis Testing • Bayesian Optimization • Forecasting • Dimensionality Reduction (PCA, t-SNE)
 
-📈 **Data Analytics & Business Intelligence**
-Data Modeling, Feature Engineering, Data Cleaning, Statistics, KPI Development, Dashboards, Ad hoc Reporting, Data Warehousing
-🤖 **Machine Learning & AI**
-Regression, Classification, Clustering, Random Forest, Decision Trees, Time Series Forecasting,  
-TensorFlow, PyTorch, Keras, CNNs, Autoencoders, Transformers, NLTK, NLP, Deep Learning, Gen AI
-📊 **Statistical Analysis**
-A/B Testing, Hypothesis Testing, Bayesian Optimization, Forecasting, Dimensionality Reduction (PCA, t-SNE)
 
 
 
