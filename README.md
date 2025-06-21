@@ -1,4 +1,4 @@
-# Kushal Modi
+<h1 align="center" style="font-family: 'Fira Code', monospace;">Kushal Modi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FF7F50&center=true&vCenter=true&width=950&height=60&lines=Hi+I'm+Kushal+Modi!;You+Can+even+call+me+Khush😉;Data+%26+Business+Intelligence+Analyst+with+2%2BYears+Years+of+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Building+Scalable+Pipelines+%7C+Powering+Interactive+Dashboards;Leveraging+Data+for+Actionable+Outcomes" />
@@ -64,10 +64,10 @@ Built a Snowflake data warehouse and predictive Python models to reduce readmiss
 Python • R • SQL • DAX • Spark • NLP • Scikit-learn • TensorFlow • XGBoost  
 
 ### 🔄 ETL & Workflow Automation  
-Snowflake • SQL Server • PostgreSQL • Oracle • Apache Airflow • SSIS • Informatica  
+Airflow • dbt • Snowflake • SQL Server • PostgreSQL • Oracle • Apache Airflow • SSIS • Informatica  
 
 ### ☁️ Cloud & DevOps  
-Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence 
+GCP • Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence 
 
 ### 📊 BI & Analytics  
 Power BI • Tableau • Looker Studio • Alteryx • SAS • Advance Excel • Minitab 
