@@ -38,12 +38,12 @@ Power BI • DAX • Tableau • Looker Studio • Alteryx • SAS • Advanced 
 📋 **Project Management Tools**  
 MS Project • Agile Methodology (Scrum) • JIRA
 
-#### 📈 Data Analytics & Business Intelligence
+**📈 Data Analytics & Business Intelligence**
 Data Modeling, Feature Engineering, Data Cleaning, Statistics, KPI Development, Dashboards, Ad hoc Reporting, Data Warehousing
-#### 🤖 Machine Learning & AI
+**🤖 Machine Learning & AI**
 Regression, Classification, Clustering, Random Forest, Decision Trees, Time Series Forecasting,  
 TensorFlow, PyTorch, Keras, CNNs, Autoencoders, Transformers, NLTK, NLP, Deep Learning, Gen AI
-#### 📊 Statistical Analysis
+**📊 Statistical Analysis**
 A/B Testing, Hypothesis Testing, Bayesian Optimization, Forecasting, Dimensionality Reduction (PCA, t-SNE)
 
 
