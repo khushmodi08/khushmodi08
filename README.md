@@ -25,24 +25,27 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Skills & Tools
 
-🛠️ **Data & Modeling**  
-Python • R • SQL • Spark • Scikit-learn • TensorFlow • XGBoost  
-🔄 **ETL & Workflow Automation**  
-Apache Airflow • dbt • Snowflake • SQL Server • PostgreSQL • Oracle • SSIS • Informatica  
-☁️ **Cloud & DevOps**  
-GCP • Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence  
-📊 **BI & Analytics**  
-Power BI • DAX • Tableau • Looker Studio • Alteryx • SAS • Advanced Excel • Minitab  
-📋 **Project Management Tools**  
-MS Project • Agile Methodology (Scrum) • JIRA  
-📈 **Data Analytics & Business Intelligence**  
-Data Modeling • Feature Engineering • Data Cleaning • Statistics • KPI Development • Dashboards • Ad hoc Reporting • Data Warehousing  
-🤖 **Machine Learning & AI**  
-Regression • Classification • Clustering • Random Forest • Decision Trees • Time Series Forecasting • TensorFlow • PyTorch • Keras • CNNs • Transformers • NLTK • NLP • Deep Learning  
-📊 **Statistical Analysis**  
-A/B Testing • Hypothesis Testing • Bayesian Optimization • Forecasting • Dimensionality Reduction (PCA, t-SNE)
+**🧮 Data & Modeling:**  
+`Python` | `R` | `SQL` | `Spark` | `Scikit-learn` | `TensorFlow` | `XGBoost`  
+**🔄 ETL & Workflow Automation:**  
+`Apache Airflow` | `dbt` | `Snowflake` | `SQL Server` | `PostgreSQL` | `Oracle` | `SSIS` | `Informatica`  
+**☁️ Cloud & DevOps:**  
+`GCP` | `Azure (Databricks, DevOps)` | `AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker)` | `Git` | `Confluence`  
+**📊 BI & Analytics:**  
+`Power BI` | `DAX` | `Tableau` | `Looker Studio` | `Alteryx` | `SAS` | `Advanced Excel` | `Minitab`  
+**📋 Project Management Tools:**  
+`MS Project` | `Agile Methodology (Scrum)` | `JIRA`  
+**📈 Data Analytics & Business Intelligence:**  
+`Data Modeling` | `Feature Engineering` | `Data Cleaning` | `Statistics` | `KPI Development` | `Dashboards` | `Ad hoc Reporting` | `Data Warehousing`  
+**🤖 Machine Learning & AI:**  
+`Regression` | `Classification` | `Clustering` | `Random Forest` | `Decision Trees` | `Time Series Forecasting` | `TensorFlow` | `PyTorch` | `Keras` | `CNNs` | `Transformers` | `NLTK` | `NLP` | `Deep Learning`  
+**📊 Statistical Analysis:**  
+`A/B Testing` | `Hypothesis Testing` | `Bayesian Optimization` | `Forecasting` | `Dimensionality Reduction (PCA, t-SNE)`
+
+
+
 
 ---
 
