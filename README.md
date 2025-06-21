@@ -27,16 +27,18 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
 ## ⚙️ Tech Stack
 
-### 🛠️ Data & Modeling  
+🛠️ **Data & Modeling**  
 Python • R • SQL • DAX • Spark • NLP • Scikit-learn • TensorFlow • XGBoost  
-### 🔄 ETL & Workflow Automation  
+🔄 **ETL & Workflow Automation**  
 Airflow • dbt • Snowflake • SQL Server • PostgreSQL • Oracle • Apache Airflow • SSIS • Informatica  
-### ☁️ Cloud & DevOps  
-GCP • Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence 
-### 📊 BI & Analytics  
-Power BI • Tableau • Looker Studio • Alteryx • SAS • Advance Excel • Minitab 
-### 📋 Project Management Tools  
-Ms Project • Agile Methodology(Scrum) • JIRA 
+☁️ **Cloud & DevOps**  
+GCP • Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Confluence  
+📊 **BI & Analytics**  
+Power BI • Tableau • Looker Studio • Alteryx • SAS • Advanced Excel • Minitab  
+📋 **Project Management Tools**  
+MS Project • Agile Methodology (Scrum) • JIRA
+
+
 
 ---
 
