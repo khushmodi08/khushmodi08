@@ -1,7 +1,7 @@
 # Kushal Modi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Kushal+Modi!;You+Can+even+call+me+Khush😉;Data+%26+Business+Intelligence+Analyst+with+2++Years+of+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Building+Scalable+Pipelines+%7C+Powering+Interactive+Dashboards;Leveraging+Data+for+Actionable+Outcomes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=950&height=60&lines=Hi+I'm+Kushal+Modi!;You+Can+even+call+me+Khush😉;Data+%26+Business+Intelligence+Analyst+with+2%2BYears+Years+of+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Building+Scalable+Pipelines+%7C+Powering+Interactive+Dashboards;Leveraging+Data+for+Actionable+Outcomes" />
 </p>
 
 ---
