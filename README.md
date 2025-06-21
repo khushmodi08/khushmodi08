@@ -78,7 +78,7 @@ in cloud systems. Achieved a 50% reduction in manual effort and 99% uptime for c
 
 ## 🧠 Key Projects
 
-### [🏥 ICU Optimization with Snowflake DWH](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing)  
+### [🏥 ICU Optimization with Snowflake DWH](https://github.com/khushmodi08/Optimizing-ICU-Management-with-Data-Warehousing)  
 Built a Snowflake data warehouse and predictive Python models to reduce readmission risk and optimize ICU capacity.
 
 ---
