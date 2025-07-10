@@ -8,7 +8,7 @@
 ---
 <p align="center">
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611ht7h3pms3rsejedvtx13k5w3d4qrabw1s7eqjdq2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height="425" alt="Profile Banner">
----
+
 
 ## 👋 About Me
 
