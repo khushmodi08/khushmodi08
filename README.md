@@ -57,25 +57,18 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
 ### 🏢 *Business Intelligence Analyst, Lean Six Sigma(Black Belt)* | National Grid
 *Syracuse, USA | May 2024 – May 2025*  
-- Spearheaded a cross-functional BI initiative to design and implement a ML - driven dispatch optimization model, leveraging real-time operational data to reduce RTU (Return to Utility) cycle time from 180 to 20 days - an 89% improvement in service delivery.
-- Eliminated 8,792 backlog hours and generated $496K+ in annual cost savings by engineering ETL pipelines using PySpark and SQL to process and join 15M+ operational records from EWFM and Snowflake, enabling advanced geospatial and statistical analysis.
-- Developed and deployed dynamic Power Bi dashboards integrated with Snowflake via ODBC connection, working with stakeholders to translate business needs into actionable visual insights and drive strategic decision-making for process improvements.
+
 
  
 
 ### 🏢 *Data Analyst* | JSW Steels Works Pvt Ltd  
 *Mumbai, India | May 2022 – June 2023*  
-- Reduced manual reporting time by 30% by automating Redshift data extraction in Python, improving availability of daily data.
-- Streamlined repetitive data tasks with Python and Tanium scripts, optimizing daily report generation and scheduled data refreshes
-in cloud systems. Achieved a 50% reduction in manual effort and 99% uptime for critical reports.
-- Developed Power Bi and Excel dashboards to enhance visibility into inventory and data flow, reducing decision timelines by 25%.
+
  
 
 ### 🏢 *Data Analyst* | TAFE  
 *Mumbai, India | June 2021 – May 2022*  
-- Conducted statistical EDA and automated Excel-based reporting (macros/VBA) to optimize freight logistics, reducing costs by 28%.
-- Boosted ROAS by 35% through A/B testing and regression using R to optimize marketing campaign and customer segmentation. 
-- Increased stakeholders buy-in for pricing initiatives by 30% by creating strategic analytics reports based on cost-saving analysis.
+
 
 ---
 
