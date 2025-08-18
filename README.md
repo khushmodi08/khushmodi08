@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a data enthusiast with over 2+ years of experience in building scalable data solutions, designing real-time dashboards, and developing end-to-end ETL pipelines using Python, SQL, and cloud platforms like AWS and Snowflake. I’m passionate about using data to drive meaningful decisions and improve operational efficiency.
+I'm a data enthusiast with over 3+ years of experience in building scalable data solutions, designing real-time dashboards, and developing end-to-end ETL pipelines using Python, SQL, and cloud platforms like AWS and Snowflake. I’m passionate about using data to drive meaningful decisions and improve operational efficiency.
 
 ---
 
@@ -55,18 +55,18 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
 ## 💼 Professional Experience
 
-### 🏢 *Business Intelligence Analyst, Lean Six Sigma(Black Belt)* | National Grid
+### 🏢 *Business Analyst, Lean Six Sigma(Black Belt)* | National Grid
 *Syracuse, USA | May 2024 – May 2025*  
 
 
  
 
-### 🏢 *Data Analyst* | JSW Steels Works Pvt Ltd  
-*Mumbai, India | May 2022 – June 2023*  
+### 🏢 *Data Analyst* | TAFE 
+*Mumbai, India | May 2022 – May 2023*  
 
  
 
-### 🏢 *Data Analyst* | TAFE  
+### 🏢 *Data Analyst* | JSW Steels Works Pvt Ltd   
 *Mumbai, India | June 2021 – May 2022*  
 
 
