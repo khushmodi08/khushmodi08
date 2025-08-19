@@ -66,7 +66,7 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
  
 
-### 🏢 *Data Analyst* | JSW Steels Works Pvt Ltd   
+### 🏢 *Business Analyst* | JSW Steels Works Pvt Ltd   
 *Mumbai, India | June 2021 – May 2022*  
 
 
