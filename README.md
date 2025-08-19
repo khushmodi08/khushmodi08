@@ -98,4 +98,5 @@ Built a Snowflake data warehouse and predictive Python models to reduce readmiss
 
 ---
 
-### "Fueling decisions with data that talks — through clean pipelines, crisp visuals, and solid logic."_  
+<p align="center"> 
+### "Fueling decisions with data that talks — through clean pipelines, crisp visuals, and solid logic."  </p>
