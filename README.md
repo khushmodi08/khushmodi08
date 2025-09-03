@@ -72,10 +72,9 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
 ---
 
-## 🧠 Key Projects
+## 👨🏼‍💼 Leadership Experience
 
-### [🏥 ICU Optimization with Snowflake DWH](https://github.com/khushmodi08/Optimizing-ICU-Management-with-Data-Warehousing)  
-Built a Snowflake data warehouse and predictive Python models to reduce readmission risk and optimize ICU capacity.
+
 
 ---
 
