@@ -74,7 +74,9 @@ Focus: Machine Learning • Data Science • Cloud Computing • AI
 
 ## 👨🏼‍💼 Leadership Experience
 • Volunteered for Rotaract Club TCET Mumbai.
+
 • EVENT MANAGER - Managed logistics for ASME(American Society of Mechanical Engineers)-TCET events, increasing student participation by 20%.
+
 • Coordinator for National Initiative Program commenced by the Ministry of Human Resource - Development and AICTE(INDIA).
 
 
