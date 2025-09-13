@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushmodi08&label=Profile%20views&color=0e75b6&style=flat" alt="khushmodi08" /> </p>
 <h1 align="center" style="font-family: 'Fira Code', monospace;"><b>Kushal Modi</b></h1>
 
 
